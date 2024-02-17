@@ -6,8 +6,8 @@
       <class name="com.quantum.BookWorkshop">
         <methods>
           <include name="setUp"/>
-          <include name="Confirmonegradeselected"/>
           <include name="teardown"/>
+          <include name="Emptyform"/>
         </methods>
       </class> <!-- com.quantum.BookWorkshop -->
     </classes>
